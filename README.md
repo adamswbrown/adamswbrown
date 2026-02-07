@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Adam
 
-👨‍💻 **Principal Consultant | Cloud Modernization | FinOps | Azure Migration Expert**  
-I help organizations navigate the complex world of cloud transformation—balancing cost, performance, and practicality. Whether it’s simplifying large-scale Azure migrations, integrating FinOps practices, or delivering actionable insights with tooling like **Dr Migrate**, I thrive at the intersection of technical depth and customer impact.
+👨‍💻 **Principal Consultant — Cloud Modernization, FinOps & Migration Strategy**
+
+I design the systems that tell organisations **what should move, how it should change, and why it matters financially**.
+
+Most cloud projects fail because they start with technology.  
+I start with decision logic — then automate the implementation.
+
+My work sits between architecture, finance, and operations: turning discovery data into clear modernization actions instead of endless workshops and spreadsheets.
 
 ---
 
@@ -10,39 +16,90 @@ I help organizations navigate the complex world of cloud transformation—balanc
 
 ---
 
+## 🧭 What I Actually Do
+
+I don’t just migrate workloads — I build the decision systems that tell you what should happen to them.
+
+Typical outcomes of my work:
+
+- Raw discovery data → modernization strategy
+- Cloud cost → financial narrative
+- Architecture complexity → actionable plan
+- Manual processes → automated workflows
+- Assessments → migration waves
+
+---
+
 ## 🛠️ Technologies & Focus Areas
 
-- **Cloud Platforms**: Azure (primary), AWS, GCP (some exposure)
-- **FinOps**: Optimization, tagging, billing analysis, tooling
-- **Cloud Migrations**: Strategy, assessment, tooling (DMC, DMA, Azure Migrate)
-- **Infrastructure**: Windows & Linux VMs, SQL Server, vCenter
-- **Automation & Tooling**: PowerShell, Python, Docker, n8n
-- **App Modernization**: Azure Service Fabric, PaaS migration
-- **Observability & Reporting**: Power BI, Excel automation, Airtable, Markdown
+**Cloud Platforms**
+- Azure (primary), AWS, GCP exposure
+
+**Migration & Architecture**
+- Estate discovery & analysis
+- Application dependency understanding
+- SQL & platform modernization
+- Azure Service Fabric & PaaS adoption
+
+**FinOps**
+- Cost modelling & optimization
+- Tagging & accountability structures
+- Billing analysis & reporting pipelines
+
+**Infrastructure**
+- Windows & Linux VMs
+- SQL Server
+- VMware / vCenter environments
+
+**Automation & Tooling**
+- PowerShell, Python, Docker
+- n8n workflow automation
+- API integrations (Salesforce, Airtable, SaaS tools)
+
+**Reporting & Insight**
+- Power BI
+- Structured Markdown reporting
+- Data shaping & transformation
 
 ---
 
 ## 📌 Featured Projects
 
-- [Dr Migrate Documentation](https://learn.drmigrate.com) – End-to-end migration tooling documentation (Quickstarts, Troubleshooting, Advanced Reporting).
-- **ChurchSuite Import Tools** – Automation for streamlining CSV imports and event listings for faith-based organizations.
+### ☁️ Migration & Architecture Intelligence
+- **[Azure Architecture Categoriser](https://github.com/adamswbrown/azure-architecture-categoriser)**  
+  Automatically classifies workloads into architecture patterns — turning assessment output into modernization decisions.
 
+- **[Dr Migrate Documentation](https://learn.drmigrate.com)**  
+  End-to-end enterprise migration guidance based on real deployments, not theory.
+
+---
+
+### 🤖 Automation & Workflow Systems
+- **[CoachFit](https://github.com/adamswbrown/CoachFit)**  
+  Structured workflow tooling that turns human engagement processes into repeatable systems.
+
+---
+
+### ⛪ Practical Tools (Real Problems, Real Users)
+- **[ProPresenter Lyric Export](https://github.com/adamswbrown/propresenterlyricexport)**  
+  Converts presentation lyrics into structured text — removing manual media 
 ---
 
 ## 🔍 Currently Exploring
 
-- Agentic AI opportunities in app discovery  
-- Database insights (queuing, slow queries, modernization triggers)  
-- Building smarter automation flows with n8n and external APIs (TickTick, Salesforce, Airtable)
+- Agentic AI in application discovery & migration planning
+- Database signals that predict modernization effort
+- Automated decision pipelines (assessment → recommendation → execution)
+- External-API driven workflow automation
 
 ---
 
 ## 🧠 A Bit More About Me
 
-- Autistic 💡 — I value clarity, systems thinking, and deep work.
-- Photosensitive epileptic & dyspraxic — Accessibility isn't optional.
-- I help churches and non-profits with digital workflows in my spare time.
-- I prefer **quiet mornings**, Markdown over Word, and YAML over XML.
+- Systems thinker — clarity over buzzwords
+- Accessibility matters — tooling should reduce cognitive load
+- I help churches & non-profits modernize their processes
+- I prefer Markdown over Word and YAML over XML
 
 ---
 
@@ -55,7 +112,5 @@ I help organizations navigate the complex world of cloud transformation—balanc
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/adamswbrown) 
-- 💌 Email me for work stuff, church tech tips, or just to say hi.
-
----
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adamswbrown)  
+- 💌 Email me for migration strategy, automation, or practical cloud advice
