@@ -67,7 +67,10 @@ Typical outcomes of my work:
 
 ### ☁️ Migration & Architecture Intelligence
 - **[Azure Architecture Categoriser](https://github.com/adamswbrown/azure-architecture-categoriser)**  
-  Automatically classifies workloads into architecture patterns — turning assessment output into modernization decisions.
+  Matches applications to Azure architecture patterns using assessment data from Dr. Migrate — turns discovery output into ranked, explainable modernization recommendations.
+
+- **[Azure Capacity Checker](https://github.com/adamswbrown/AzureCapacityChecker)**  
+  Validates rightsizing exports against live Azure VM SKU availability, tests real capacity, and recommends alternatives when target SKUs aren't deployable.
 
 - **[Dr Migrate Documentation](https://learn.drmigrate.com)**  
   End-to-end enterprise migration guidance based on real deployments, not theory.
@@ -75,14 +78,27 @@ Typical outcomes of my work:
 ---
 
 ### 🤖 Automation & Workflow Systems
-- **[CoachFit](https://github.com/adamswbrown/CoachFit)**  
-  Structured workflow tooling that turns human engagement processes into repeatable systems.
+- **[Meeting Reminder](https://github.com/adamswbrown/meeting-reminder)**  
+  Native macOS menu bar app with ADHD-focused features: progressive alerts, Notion integration, meeting end detection, and full-screen reminders.
+
+- **[Teams Stream Deck](https://github.com/adamswbrown/teams-streamdeck)**  
+  Controls Microsoft Teams meetings from an Elgato Stream Deck on macOS — a working replacement for the deprecated Teams Assistive Technology API.
+
+- **[Cal.com Automation](https://github.com/adamswbrown/cal-com-automation)**  
+  PowerShell automation around the Cal.com scheduling API for repeatable booking and calendar workflows.
 
 ---
 
 ### ⛪ Practical Tools (Real Problems, Real Users)
 - **[ProPresenter Lyric Export](https://github.com/adamswbrown/propresenterlyricexport)**  
-  Converts presentation lyrics into structured text — removing manual media 
+  Extracts and exports worship song lyrics from ProPresenter 7 as formatted PowerPoint, JSON, or text — cross-platform CLI with standalone executables.
+
+- **[Bible Tour](https://github.com/adamswbrown/bible-tour)**  
+  Interactive guided walkthrough of scripture for teaching and personal study.
+
+- **[UK Food Facts](https://github.com/adamswbrown/ukfoodfacts)**  
+  Python tooling for working with UK food and nutrition data.
+
 ---
 
 ## 🔍 Currently Exploring
